@@ -3,25 +3,25 @@ import Render from "./Render"
 
 export default function Data(){
     const data=[{
-        name:"G.Selva Kumar",
+        name:"santosh nigam",
         age:23,
         course:"ECE",
-        college:"PSG College of Technology"
+        college:"datta meghe college of engineering"
     },{
-        name:"T.Nishanth Kumar",
+        name:"ashish dubey",
         age:20,
         course:"ECE",
-        college:"PSG College of Technology"
+        college:"datta meghe college of engineering"
     },{
-        name:"A.Deepak Appa Rao",
+        name:"ritik kadam",
         age:22,
         course:"ECE",
-        college:"PSG College of Technology"
+        college:"datta meghe college of engineering"
     },{
-        name:"KS.Chandeesh",
+        name:"ramesh shah",
         age:22,
         course:"ECE",
-        college:"PSG College of Technology"
+        college:"datta meghe college of engineering"
     }]
     return(<div>
         <h1>The Task is Render Data from One Component to another Component</h1>
